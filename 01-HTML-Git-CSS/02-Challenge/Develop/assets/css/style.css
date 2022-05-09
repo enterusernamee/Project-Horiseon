@@ -60,9 +60,11 @@ header nav ul li {
     background-position: center;
 }
 
+
+
 section.content {
     width: 75%;
-    display: inline block;
+    display: inline-block;
     margin-left: 20px;
 }
 
@@ -93,6 +95,8 @@ section.content article.content h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
 
 .benefits {
     margin-right: 20px;
